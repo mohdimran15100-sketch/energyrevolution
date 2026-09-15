@@ -1,0 +1,35 @@
+# Energy Revolution System
+
+> Independent informational and review website about "Energy Revolution System," a digital DIY energy guide sold online. This site is not the manufacturer, seller, or official company behind the product.
+
+## What the product is
+Energy Revolution System is a digital, downloadable guide (PDF main guide plus bonus e-books) that teaches buyers how to build a small, supplemental electricity device at home. The concept is based on coil-winding principles associated with Nikola Tesla's historical "bifilar coil" work (documented in U.S. Patent 512,340, 1894). It is sold and delivered entirely online through the ClickBank marketplace; there is no shipped hardware, and no solar panels or wind turbines are included in the purchase.
+
+Note: some historical marketing copy connected to this product described a physical kit with solar panels, wind turbines and battery storage. That description is inconsistent with the product's actual checkout process (instant digital delivery, no shipping address collected) and with its own FAQ, guarantee and creator materials. Treat the digital, coil-based description as accurate.
+
+## Key topics covered on this site
+- What Energy Revolution System is and what buyers receive
+- How the coil-based concept is presented to work
+- The real science: electromagnetic induction, bifilar coil winding, and the limits of that science as applied to commercial marketing claims
+- Nikola Tesla's 1894 bifilar coil patent, explained accurately and separately from modern product marketing
+- Price, guarantee, and how the ClickBank checkout process works
+- Pros, cons, and an honest legitimacy assessment (legitimate transaction; unverified marketing performance claims)
+
+## Important distinctions
+- This is a digital product, not a physical generator, solar kit, or wind-turbine kit.
+- Tesla's patent is real, documented electrical engineering history. It does not prove, endorse, or scientifically validate this or any modern commercial product.
+- No independent, peer-reviewed testing of this specific guide's electricity-savings claims has been published. Figures such as "up to 80% savings" are seller marketing claims, not verified results.
+- The guide is bound by ordinary physics (conservation of energy); it is not a free-energy or perpetual-motion device.
+- The named creator, "Michael Garnett," is a seller-provided persona that cannot be independently verified against public records.
+
+## Pages
+- / — Homepage: full overview, science, Tesla/bifilar coil explainer, FAQ
+- /energyrevolutionsystem.html — Core product/entity page
+- /energyrevolutionsystemreview.html — Editorial review (pros, cons, legit-or-scam analysis)
+- /energyrevolutionsystembuyonline.html — Buying guide (price, checkout process, guarantee)
+- /energyrevolutionsystemofficialwebsite.html — Explains the difference between this independent site and the seller's official checkout
+- /theenergyrevolutionsystem.html — Plain-language entity explainer
+- /Disclaimer.html, /PrivacyPolicy.html, /TermsAndConditions.html — Legal pages
+
+## Disclosure
+This site contains affiliate links to the seller's ClickBank checkout and may earn a commission on qualifying purchases. Content is independently written; it is not provided or approved by the product's seller.

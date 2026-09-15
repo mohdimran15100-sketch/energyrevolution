@@ -1,0 +1,15 @@
+Options All -Indexes
+
+DirectoryIndex index.php index.htm index.html
+
+RewriteEngine on
+RewriteBase /
+
+RewriteEngine On
+RewriteBase /
+RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
+RewriteRule ^(.*)$ https://%1/$1[R=301,L]
+
+Redirect 301 /energyreovolutionsystem.html https://energyrevolotionsystem.com/energyrevolutionsystem.html
+
+ErrorDocument 404 https://energyrevolotionsystem.com /

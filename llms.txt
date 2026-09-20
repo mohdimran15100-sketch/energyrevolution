@@ -24,11 +24,11 @@ Note: some historical marketing copy connected to this product described a physi
 
 ## Pages
 - / — Homepage: full overview, science, Tesla/bifilar coil explainer, FAQ
-- /energyrevolutionsystem.html — Core product/entity page
-- /energyrevolutionsystemreview.html — Editorial review (pros, cons, legit-or-scam analysis)
-- /energyrevolutionsystembuyonline.html — Buying guide (price, checkout process, guarantee)
-- /energyrevolutionsystemofficialwebsite.html — Explains the difference between this independent site and the seller's official checkout
-- /theenergyrevolutionsystem.html — Plain-language entity explainer
+- /energerevolutionsystem.html — Core product/entity page
+- /energerevolutionsystemreview.html — Editorial review (pros, cons, legit-or-scam analysis)
+- /energerevolutionsystembuyonline.html — Buying guide (price, checkout process, guarantee)
+- /energerevolutionsystemofficialwebsite.html — Explains the difference between this independent site and the seller's official checkout
+- /theenergerevolutionsystem.html — Plain-language entity explainer
 - /Disclaimer.html, /PrivacyPolicy.html, /TermsAndConditions.html — Legal pages
 
 ## Disclosure

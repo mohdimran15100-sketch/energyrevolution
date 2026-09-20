@@ -10,6 +10,6 @@ RewriteBase /
 RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
 RewriteRule ^(.*)$ https://%1/$1[R=301,L]
 
-Redirect 301 /energereovolutionsystem.html https://energerevolutionsystem.com/energyrevolutionsystem.html
+Redirect 301 /energereovolutionsystem.html https://energerevolutionsystem.com/energerevolutionsystem.html
 
 ErrorDocument 404 https://energerevolutionsystem.com /
